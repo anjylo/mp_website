@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --color-custom-beige: #cec3a9;
+    --color-custom-gunmetal: #052125;
+}
